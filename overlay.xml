@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>njlg</name>
+    <description lang="en">rtm Gentoo PHP Overlay</description>
+    <homepage>https://github.com/rtm-ctrlz/gentoo-php</homepage>
+    <owner type="person">
+      <email>rtm@ctrlz.ru</email>
+      <name>Ilia Urvachev</name>
+    </owner>
+    <source type="git">https://github.com/rtm-ctrlz/gentoo-php.git</source>
+  </repo>
+</repositories>
