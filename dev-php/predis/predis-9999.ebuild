@@ -18,7 +18,6 @@ DOCS="README.md FAQ.md CHANGELOG.md CONTRIBUTING.md CHANGELOG.NAMING.md"
 LICENSE="PHP-3"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
-IUSE="tests igbinary"
 
 src_install() {
 	insinto /usr/share/php/
