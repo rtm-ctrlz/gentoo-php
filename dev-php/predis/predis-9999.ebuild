@@ -18,6 +18,13 @@ DOCS="README.md FAQ.md CHANGELOG.md CONTRIBUTING.md CHANGELOG.NAMING.md"
 LICENSE="PHP-3"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
+IUSE="socket"
+
+DEPEND="
+	>=dev-lang/php-5.3.2
+	socket? ( dev-lang/php[socket] )
+"
+RDEPEND="${DEPEND}"
 
 src_install() {
 	insinto /usr/share/php/
