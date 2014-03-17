@@ -4,7 +4,7 @@
 
 EAPI="5"
 PHP_EXT_NAME="redis"
-USE_PHP="php5-4"
+USE_PHP="php5-4 php5-5 php5-3"
 
 inherit git-2 php-ext-source-r2
 
