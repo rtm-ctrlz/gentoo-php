@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>rtm-php</name>
+    <name>gentoo-php-redis</name>
     <description lang="en">rtm Gentoo PHP Overlay</description>
     <homepage>https://github.com/rtm-ctrlz/gentoo-php</homepage>
     <owner type="person">
