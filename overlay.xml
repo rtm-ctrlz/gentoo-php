@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <repositories version="1.0">
-  <repo quality="experimental" status="unofficial">
-    <name>gentoo-php-redis</name>
-    <description lang="en">rtm Gentoo PHP Overlay</description>
-    <homepage>https://github.com/rtm-ctrlz/gentoo-php</homepage>
-	  <owner type="person">
-	    <name>Ilia Urvachev</name>
-		  <email>rtm@ctrlz.ru</email>
-	  </owner>
-    <source type="git">https://github.com/rtm-ctrlz/gentoo-php.git</source>
-    <feed>https://github.com/rtm-ctrlz/gentoo-php/commits/master.atom</feed>
-  </repo>
+    <repo quality="experimental" status="unofficial">
+        <name>gentoo-php-redis</name>
+        <description lang="en">rtm Gentoo PHP Overlay</description>
+        <homepage>https://github.com/rtm-ctrlz/gentoo-php</homepage>
+        <owner type="person">
+            <name>Ilia Urvachev</name>
+            <email>rtm@ctrlz.ru</email>
+        </owner>
+        <source type="git">https://github.com/rtm-ctrlz/gentoo-php.git</source>
+        <feed>https://github.com/rtm-ctrlz/gentoo-php/commits/master.atom</feed>
+    </repo>
 </repositories>
